@@ -103,5 +103,6 @@ dist
 # TernJS port file
 .tern-port
 
-# bin folder
+# bytecode folder
 bin/
+target/
