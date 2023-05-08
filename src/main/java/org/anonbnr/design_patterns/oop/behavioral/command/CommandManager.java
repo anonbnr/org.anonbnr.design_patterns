@@ -5,7 +5,7 @@ import java.util.List;
 import java.util.Optional;
 import java.util.Stack;
 
-import org.anonbnr.design_patterns.oop.creational.singleton.Singleton;
+import org.anonbnr.design_patterns.oop.creational.singleton.singleton_registry.Singleton;
 
 /**
  * a CommandManager that plays the role of Invoker in the Command
